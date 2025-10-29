@@ -18,6 +18,8 @@ See [README.md](./400/README.md)
 
 ## 500 - Review
 
+See [README.md](./500/README.md)
+
 **Evening Review (1 hour)**
 
 - Create a comparison chart: Content Search vs Standard vs Premium
