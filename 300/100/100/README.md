@@ -33,6 +33,7 @@ See [README.md](./200/300/README.md)
 
 ## 300 - The new Microsoft Purview portal structure (launched late 2024)
 
+Start exploring the capabilities in the new [Microsoft Purview portal](https://learn.microsoft.com/en-us/purview/purview-portal)
  
  ## 400 - Licensing models (E3 vs E5 features)
 
