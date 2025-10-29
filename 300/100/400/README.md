@@ -2,7 +2,7 @@
 
 ## 100 - Sign up for Microsoft 365 trial (if possible)
 
-## 200 - Navigate the [Purview portal](https://learn.microsoft.com/en-us/purview/purview-portal)
+## 200 - Navigate the [Purview portal](https://purview.microsoft.com/)
 
 ## 300 - Explore the interface and menu structure
 
