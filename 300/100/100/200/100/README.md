@@ -16,7 +16,7 @@ See [Data Security Posture Management](./300/README.md)
 
 ## 400 - Microsoft Purview Information Barriers
 
-See [Information Barriers](https://learn.microsoft.com/en-us/purview/information-barriers-solution-overview)
+See [Information Barriers](./400/README.md)
 
 ## 500 - Microsoft Purview Information Protection
 
