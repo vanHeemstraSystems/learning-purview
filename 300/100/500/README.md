@@ -1,7 +1,10 @@
 # 500 - Review
 
-**Evening Review**
+## 100 - Create flashcards of key terminology
 
-- Create flashcards of key terminology
-- Review the three main Purview pillars
-- Write down 5 key features you learned
+
+
+## 200 - Review the three main Purview pillars
+
+
+## 300 -  Write down 5 key features you learned
