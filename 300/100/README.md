@@ -18,10 +18,4 @@ See [README.md](./400/README.md)
 
 ## 500 - Review
 
-**Evening Review (1 hour)**
-
-- Create flashcards of key terminology
-- Review the three main Purview pillars
-- Write down 5 key features you learned
-
------
+See [README.md](./500/README.md)
