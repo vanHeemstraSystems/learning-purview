@@ -1,6 +1,6 @@
 # 300 - Learning Our Subject
 
-## **3-Day Intensive Learning Path**
+## 100 - Microsoft Purview Foundations & Core Concepts
 
 ### **DAY 1: Microsoft Purview Foundations & Core Concepts**
 
@@ -49,6 +49,8 @@
 
 -----
 
+## 200 - eDiscovery Deep Dive
+
 ### **DAY 2: eDiscovery Deep Dive**
 
 **Morning Session (3-4 hours)**
@@ -95,6 +97,8 @@
 - Note limitations and challenges
 
 -----
+
+## 300 - Advanced features, Use Cases & Interview Prep
 
 ### **DAY 3: Advanced Features, Use Cases & Interview Prep**
 
@@ -154,18 +158,6 @@
 -----
 
 ## **Essential Resources**
-
-**Microsoft Official Documentation:**
-
-- Microsoft Learn: Microsoft Purview documentation
-- Microsoft Security: Purview eDiscovery page
-- Microsoft Tech Community blog posts
-
-**Video Resources:**
-
-- Microsoft Mechanics YouTube channel
-- Microsoft 365 official channel
-- Search for “Microsoft Purview 2025 updates”
 
 **Practice:**
 
