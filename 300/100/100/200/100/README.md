@@ -12,7 +12,7 @@ See [Data Security Investigations ](./200/README.md)
 
 ## 300 - Microsoft Purview Data Security Posture Management
 
-See [Data Security Posture Management](https://learn.microsoft.com/en-us/purview/data-security-posture-management)
+See [Data Security Posture Management](./300/README.md)
 
 ## 400 - Microsoft Purview Information Barriers
 
