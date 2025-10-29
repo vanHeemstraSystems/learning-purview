@@ -13,4 +13,6 @@ Together, these tools empower your organization to:
 - Generate insights about how your data is stored and used
 - Manage access to the data in your estate securely and at scale
 
+Get started with [Microsoft Purview data governance solutions](https://learn.microsoft.com/en-us/purview/data-governance-overview)
+
 You can get started either using our [quickstart](https://learn.microsoft.com/en-us/purview/data-governance-get-started), or follow our step-by-step [sample setup](https://learn.microsoft.com/en-us/purview/data-governance-setup-sample).
