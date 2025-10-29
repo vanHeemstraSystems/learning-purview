@@ -2,20 +2,11 @@
 
 ## 100 - 2025 Updates & New Features
 
-See [README.md](./100/README.md
+See [README.md](./100/README.md)
 
 ## 200 - Integration & Architecture
 
 See [README.md](./200/README.md)
-
-**2. Integration & Architecture (90 minutes)**
-
-- Integration with Microsoft Defender and Sentinel for insider risk detection
-- Role-based access control (eDiscovery Manager vs eDiscovery Admin)
-- Licensing requirements (E3, E5, E5 Compliance add-on)
-- Deployment considerations
-
-**Afternoon Session (3-4 hours)**
 
 ## 300 - Real-World Scenarios & Best Practices
 
