@@ -5,7 +5,7 @@
 ## Prerequisites
 
 - You need appropriate permissions like Sensitivity Label Administrator, Compliance Administrator, or similar roles in the Microsoft Purview portal
-- You ned a valid Microsoft 365 license that supports sensitivity labels
+- You need a valid Microsoft 365 license that supports sensitivity labels
 
 ## Steps to Create a Simple Sensitivity Label 
 
