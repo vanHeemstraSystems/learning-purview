@@ -1,10 +1,36 @@
 # 100 -  Understanding Microsoft Purview
 
-- What is Microsoft Purview and its purpose
-  - Microsoft Purview is a comprehensive portfolio of products spanning data governance, data security, and risk and compliance solutions. 
-- Three main pillars: Data Governance, Data Security, and Risk & Compliance
-- The new Microsoft Purview portal structure (launched late 2024)
-- Licensing models (E3 vs E5 features)
+## 100 -  What is Microsoft Purview and its purpose
+
+> Microsoft Purview is a comprehensive portfolio of products spanning data governance, data security, and risk and compliance solutions. 
+
+Microsoft Purview is a comprehensive set of solutions that helps your organization govern, protect, and manage data wherever it lives. Microsoft Purview solutions provide integrated coverage and help address the fragmentation of data across organizations, the lack of visibility that hampers data protection and governance, and the blurring of traditional IT management roles.
+
+Microsoft Purview combines solutions and services into a unified platform that helps your organization:
+
+- Gain visibility into data across your organization
+- Safeguard and manage sensitive data across its lifecycle, wherever it lives
+- Govern data seamlessly in new, comprehensive ways
+- Manage critical data risks and regulatory requirements
+
+## 200 - Three main pillars: Data Governance, Data Security, and Risk & Compliance
+
+Microsoft Purview provides organizations with a powerful platform for governing and securing data across your entire data estate.
+
+### 100 - Data Governance
+
+
+### 200 - Data Security
+
+
+### 300 - Risk & Compliance
+
+
+
+## 300 - The new Microsoft Purview portal structure (launched late 2024)
+
+ 
+ ## 400 - Licensing models (E3 vs E5 features)
 
 **Resources:**
 
