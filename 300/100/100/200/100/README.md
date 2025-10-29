@@ -8,7 +8,7 @@ See [Data Loss Prevention (DLP)](./100/README.md)
 
 ## 200 - Microsoft Purview Data Security Investigations (preview)
 
-See [Data Security Investigations ](https://learn.microsoft.com/en-us/purview/data-security-investigations)
+See [Data Security Investigations ](./200/README.md)
 
 ## 300 - Microsoft Purview Data Security Posture Management
 
