@@ -12,14 +12,6 @@ See [README.md](./200/README.md)
 
 See [README.md](./300/README.md)
 
-**3. Real-World Scenarios & Best Practices (2 hours)**
-
-- GDPR, CCPA, HIPAA compliance scenarios
-- Responding to legal discovery requests
-- Data retention policies and archiving
-- Understanding limitations: indexing issues, search constraints, and non-supported file types
-- Performance optimization tips
-
 ## 400 - Interview Preparation
 
 See [README.md](./400/README.md)
