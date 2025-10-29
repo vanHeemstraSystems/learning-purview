@@ -22,7 +22,7 @@ You will be guided through the interface first time:
 <br/><hr><br/>
 <img width="483" height="823" alt="Image" src="https://github.com/user-attachments/assets/b9644c51-2f8a-47bf-b5ac-5a06c65fc742" />
 <br/><hr><br/>
-
-MORE
+<img width="511" height="275" alt="Image" src="https://github.com/user-attachments/assets/1f3a4a86-20cb-4982-a24c-00c6b71ef035" />
 
 ## 400 - Create a simple sensitivity label (if you have access)
+
