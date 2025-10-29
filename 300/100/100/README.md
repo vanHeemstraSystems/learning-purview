@@ -17,6 +17,8 @@ Microsoft Purview combines solutions and services into a unified platform that h
 
 Microsoft Purview provides organizations with a powerful platform for governing and securing data across your entire data estate.
 
+<img width="1001" height="582" alt="Image" src="https://github.com/user-attachments/assets/9d189c10-4b9c-4f63-93c8-46698d1a7a22" />
+
 ### 100 - Data Governance
 
 
