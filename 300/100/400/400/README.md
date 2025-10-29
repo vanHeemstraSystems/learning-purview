@@ -9,7 +9,7 @@
 
 ### 1. Access Sensitivity Labels
 
-Sign in to the Microsoft Purview portal > Solutions > Information Protection > Sensitivity labels
+Sign in to the [Microsoft Purview portal](https://perview.microsoft.com) > Solutions > Information Protection > Sensitivity labels
 
 ### 2. Create a New Label
 
