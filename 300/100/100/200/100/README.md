@@ -1,4 +1,4 @@
-# 100 - Data Governance
+# 100 - Data Security
 
 Microsoft Purview provides a robust and coordinated set of data security solutions to help you discover and protect sensitive information. The solutions include:
 
