@@ -4,6 +4,8 @@
 
 > Microsoft Purview is a comprehensive portfolio of products spanning data governance, data security, and risk and compliance solutions. 
 
+<img width="1241" height="578" alt="Image" src="https://github.com/user-attachments/assets/ebdd3175-4dea-4a6e-9829-b3f98df51699" />
+
 Microsoft Purview is a comprehensive set of solutions that helps your organization govern, protect, and manage data wherever it lives. Microsoft Purview solutions provide integrated coverage and help address the fragmentation of data across organizations, the lack of visibility that hampers data protection and governance, and the blurring of traditional IT management roles.
 
 Microsoft Purview combines solutions and services into a unified platform that helps your organization:
