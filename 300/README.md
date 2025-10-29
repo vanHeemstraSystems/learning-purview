@@ -8,53 +8,6 @@ See [README.md](./100/README.md)
 
 See [README.md](./200/README.md)
 
-### **DAY 2: eDiscovery Deep Dive**
-
-**Morning Session (3-4 hours)**
-
-**1. eDiscovery Fundamentals (90 minutes)**
-
-- Electronic discovery (eDiscovery) is the process of identifying and delivering electronic information that can be used as evidence in legal cases
-- Three eDiscovery solutions: Content Search, eDiscovery (Standard), and eDiscovery (Premium)
-- Understanding the unified eDiscovery experience (May 2025 update)
-- Data sources: Exchange, SharePoint, OneDrive, Teams, Microsoft 365 Groups
-
-**2. Content Search & eDiscovery Standard (90 minutes)**
-
-- Content Search capabilities and use cases
-- eDiscovery Standard provides case management, legal holds, and basic search/export functionality under a case management umbrella
-- Creating cases and organizing investigations
-- Legal holds for Exchange mailboxes, Teams messages, SharePoint locations, and OneDrive accounts
-- Export formats (.PST for emails, native formats for documents)
-
-**Afternoon Session (3-4 hours)**
-
-**3. eDiscovery Premium (2 hours)**
-
-- Advanced analytics tools to cull irrelevant data from review sets
-- Custodian management and legal hold notifications
-- Review sets with version histories and hyperlink management
-- Machine learning-based predictive coding models to narrow investigation scope
-- Hybrid holds that preserve communications and files across Microsoft 365 workloads
-- Production and export in EDRM format
-
-**4. Practical Workflows (2 hours)**
-
-- Study real-world eDiscovery scenarios:
-  - Employee departure investigations
-  - Legal discovery requests
-  - Compliance audits
-  - Insider risk investigations
-- Integration with Insider Risk Management for escalating cases
-
-**Evening Review (1 hour)**
-
-- Create a comparison chart: Content Search vs Standard vs Premium
-- Practice explaining the eDiscovery workflow to someone
-- Note limitations and challenges
-
------
-
 ## 300 - Advanced features, Use Cases & Interview Prep
 
 ### **DAY 3: Advanced Features, Use Cases & Interview Prep**
