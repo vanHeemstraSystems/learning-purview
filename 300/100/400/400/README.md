@@ -9,6 +9,8 @@
 
 ## Steps to Create a Simple Sensitivity Label 
 
+Video [How to: MIP Policies for ADLS Gen 2 and Azure SQL](https://youtu.be/XElUlvyMNoM?list=PLlUvFtDNTC9_Bw13CwSgJNiVg_xP7eTKF&t=70)
+
 ### 1. Access Sensitivity Labels
 
 Sign in to the [Microsoft Purview portal](https://perview.microsoft.com) > Solutions > Information Protection > Sensitivity labels
