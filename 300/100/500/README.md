@@ -15,6 +15,6 @@
 
 - Data Security
 - Data Governance
-- Risk & ...
+- Risk & Compliance
 
 ## 300 -  Write down 5 key features you learned
