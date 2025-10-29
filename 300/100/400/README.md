@@ -2,6 +2,8 @@
 
 ## 100 - Sign up for Microsoft 365 trial (if possible)
 
+Using my private account (wvanheemstra@icloud.com)
+
 ## 200 - Navigate the [Purview portal](https://purview.microsoft.com/)
 
 You will be welcomed with following modular window:
