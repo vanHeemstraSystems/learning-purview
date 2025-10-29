@@ -7,5 +7,5 @@
 
 **Resources:**
 
-- Microsoft Learn: “Learn about Microsoft Purview”
-- Watch: Microsoft’s official Purview overview videos on YouTube
+- Microsoft Learn: “[Learn about Microsoft Purview](https://learn.microsoft.com/en-us/purview/)”
+- Watch: [Microsoft’s official Purview overview videos on YouTube](https://www.youtube.com/@MicrosoftPurview)
