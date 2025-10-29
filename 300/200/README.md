@@ -14,14 +14,7 @@ See [README.md](./300/README.md)
 
 ## 400 - Practical Workflows
 
-**4. Practical Workflows (2 hours)**
-
-- Study real-world eDiscovery scenarios:
-  - Employee departure investigations
-  - Legal discovery requests
-  - Compliance audits
-  - Insider risk investigations
-- Integration with Insider Risk Management for escalating cases
+See [README.md](./400/README.md)
 
 ## 500 - Review
 
