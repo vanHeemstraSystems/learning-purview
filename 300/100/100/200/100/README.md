@@ -29,3 +29,5 @@ See [Insider Risk Management](./600/README.md)
 ## 700 - Microsoft Purview Privileged Access Management
 
 See [Privileged Access Management (PAM)](./700/README.md)
+
+Get started with [Microsoft Purview data security solutions](https://learn.microsoft.com/en-us/purview/purview-security)
