@@ -12,4 +12,10 @@ Choose **Get Started**.
 
 ## 300 - Explore the interface and menu structure
 
+You will be guided through the interface first time:
+
+<img width="457" height="372" alt="Image" src="https://github.com/user-attachments/assets/03db8234-d9f7-48fe-b6e4-1657c8caad8f" />
+
+MORE
+
 ## 400 - Create a simple sensitivity label (if you have access)
