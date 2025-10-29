@@ -15,7 +15,7 @@ Choose **Get Started**.
 You will be guided through the interface first time:
 
 <img width="457" height="372" alt="Image" src="https://github.com/user-attachments/assets/03db8234-d9f7-48fe-b6e4-1657c8caad8f" />
-<br/><br/>
+<br/><hr><br/>
 <img width="466" height="302" alt="Image" src="https://github.com/user-attachments/assets/901b2305-a67a-48cd-bc5f-5ad62eb5d765" />
 
 MORE
