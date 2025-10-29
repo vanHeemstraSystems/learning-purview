@@ -9,15 +9,8 @@ See [README.md](./100/README.md)
 See [README.md](./200/README.md)
 
 ## 300 - eDiscovery Premium
- 
-**3. eDiscovery Premium (2 hours)**
 
-- Advanced analytics tools to cull irrelevant data from review sets
-- Custodian management and legal hold notifications
-- Review sets with version histories and hyperlink management
-- Machine learning-based predictive coding models to narrow investigation scope
-- Hybrid holds that preserve communications and files across Microsoft 365 workloads
-- Production and export in EDRM format
+See [README.md](./300/README.md)
 
 ## 400 - Practical Workflows
 
