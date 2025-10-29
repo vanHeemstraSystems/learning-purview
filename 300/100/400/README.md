@@ -4,6 +4,12 @@
 
 ## 200 - Navigate the [Purview portal](https://purview.microsoft.com/)
 
+You will be welcomed with following modular window:
+
+<img width="580" height="714" alt="Image" src="https://github.com/user-attachments/assets/106d335c-10b7-419b-9761-93106dc62f7a" />
+
+Choose **Get Started**.
+
 ## 300 - Explore the interface and menu structure
 
 ## 400 - Create a simple sensitivity label (if you have access)
