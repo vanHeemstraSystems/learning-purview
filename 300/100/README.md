@@ -2,19 +2,7 @@
 
 ## 100 -  Understanding Microsoft Purview
 
-**Morning Session (3-4 hours)**
-
-**1. Understanding Microsoft Purview (90 minutes)**
-
-- What is Microsoft Purview and its purpose
-- Three main pillars: Data Governance, Data Security, and Risk & Compliance
-- The new Microsoft Purview portal structure (launched late 2024)
-- Licensing models (E3 vs E5 features)
-
-**Resources:**
-
-- Microsoft Learn: “Learn about Microsoft Purview”
-- Watch: Microsoft’s official Purview overview videos on YouTube
+See [README.md](./100//README.md)
 
 ## 200 - Data Governance Solutions
 
