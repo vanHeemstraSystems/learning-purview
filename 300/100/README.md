@@ -6,14 +6,7 @@ See [README.md](./100//README.md)
 
 ## 200 - Data Governance Solutions
 
-**2. Data Governance Solutions (90 minutes)**
-
-- Microsoft Purview Data Map for registering and scanning data sources
-- Unified Catalog for curating and managing data sources
-- Data classification and discovery
-- Integration with multi-cloud environments (Azure, AWS, Google Cloud)
-
-**Afternoon Session (3-4 hours)**
+See [README.md](./200//README.md)
 
 ## 300 - Data Security & Compliance Features
 
