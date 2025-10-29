@@ -20,7 +20,7 @@ See [Information Barriers](./400/README.md)
 
 ## 500 - Microsoft Purview Information Protection
 
-See [Information Protection](https://learn.microsoft.com/en-us/purview/information-protection)
+See [Information Protection](./500/README.md)
 
 ## 600 - Microsoft Purview Insider Risk Management
 
