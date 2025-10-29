@@ -7,3 +7,5 @@ Microsoft Purview includes [risk and compliance solutions](https://learn.microso
 - [Microsoft Purview Compliance Manager](https://learn.microsoft.com/en-us/purview/compliance-manager)
 - [Microsoft Purview Data Lifecycle Management](https://learn.microsoft.com/en-us/purview/data-lifecycle-management)
 - [Microsoft Purview eDiscovery](https://learn.microsoft.com/en-us/purview/edisc)
+
+Get started with [Microsoft Purview data governance solutions](https://learn.microsoft.com/en-us/purview/data-governance-overview)
