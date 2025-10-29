@@ -14,12 +14,7 @@ See [README.md](./300//README.md)
 
 ## 400 - Hands-on Practice
 
-**4. Hands-on Practice (2 hours)**
-
-- Sign up for Microsoft 365 trial (if possible)
-- Navigate the Purview portal
-- Explore the interface and menu structure
-- Create a simple sensitivity label (if you have access)
+See [README.md](./400/README.md)
 
 ## 500 - Review
 
