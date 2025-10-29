@@ -21,13 +21,15 @@ Microsoft Purview provides organizations with a powerful platform for governing 
 
 ### 100 - Data Governance
 
+See [README.md](./200/100/README.md)
 
 ### 200 - Data Security
 
+See [README.md](./200/200/README.md)
 
 ### 300 - Risk & Compliance
 
-
+See [README.md](./200/300/README.md)
 
 ## 300 - The new Microsoft Purview portal structure (launched late 2024)
 
