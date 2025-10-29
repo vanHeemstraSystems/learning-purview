@@ -1,5 +1,7 @@
 # 400 - Create a simple sensitivity label (if you have access)
 
+**NOTE:** User account 'wvanheemstra@icloud.com' is a personal Microsoft account. Personal Microsoft accounts are not supported for this application unless explicitly invited to an organization. Try signing out and signing back in with an organizational account.
+
 ## Prerequisites
 
 - You need appropriate permissions like Sensitivity Label Administrator, Compliance Administrator, or similar roles in the Microsoft Purview portal
