@@ -20,6 +20,8 @@ You will be guided through the interface first time:
 <br/><hr><br/>
 <img width="494" height="266" alt="Image" src="https://github.com/user-attachments/assets/2cce7c70-db88-4e2c-9f90-aa8273e02644" />
 <br/><hr><br/>
+<img width="483" height="823" alt="Image" src="https://github.com/user-attachments/assets/b9644c51-2f8a-47bf-b5ac-5a06c65fc742" />
+<br/><hr><br/>
 
 MORE
 
