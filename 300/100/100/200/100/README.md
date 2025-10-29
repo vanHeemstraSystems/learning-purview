@@ -24,7 +24,7 @@ See [Information Protection](./500/README.md)
 
 ## 600 - Microsoft Purview Insider Risk Management
 
-See [Insider Risk Management](https://learn.microsoft.com/en-us/purview/insider-risk-management-solution-overview)
+See [Insider Risk Management](./600/README.md)
 
 ## 700 - Microsoft Purview Privileged Access Management
 
