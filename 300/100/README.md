@@ -10,12 +10,7 @@ See [README.md](./200//README.md)
 
 ## 300 - Data Security & Compliance Features
 
-**3. Data Security & Compliance Features (2 hours)**
-
-- Sensitivity labels and automatic classification
-- Data Loss Prevention (DLP) policies
-- Integration with Microsoft Copilot for AI governance
-- Information Protection across Microsoft 365
+See [README.md](./300//README.md)
 
 ## 400 - Hands-on Practice
 
