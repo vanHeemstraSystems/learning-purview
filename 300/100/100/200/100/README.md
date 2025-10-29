@@ -4,7 +4,7 @@ Microsoft Purview provides a robust and coordinated set of data security solutio
 
 ## 100 - Microsoft Purview Data Loss Prevention
 
-See [Data Loss Prevention (DLP)](https://learn.microsoft.com/en-us/purview/dlp-learn-about-dlp)
+See [Data Loss Prevention (DLP)](./100/README.md)
 
 ## 200 - Microsoft Purview Data Security Investigations (preview)
 
