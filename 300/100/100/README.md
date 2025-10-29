@@ -19,11 +19,11 @@ Microsoft Purview provides organizations with a powerful platform for governing 
 
 <img width="1001" height="582" alt="Image" src="https://github.com/user-attachments/assets/9d189c10-4b9c-4f63-93c8-46698d1a7a22" />
 
-### 100 - Data Governance
+### 100 - Data Security
 
 See [README.md](./200/100/README.md)
 
-### 200 - Data Security
+### 200 - Data Governance
 
 See [README.md](./200/200/README.md)
 
